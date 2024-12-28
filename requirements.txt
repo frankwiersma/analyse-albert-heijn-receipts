@@ -1,0 +1,6 @@
+python-dotenv
+requests
+matplotlib
+plotly
+google-generativeai
+typing-extensions
